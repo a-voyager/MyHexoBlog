@@ -1,6 +1,6 @@
 index:
-  home: 'home'
-  search: 'Search'
+  home: '主页'
+  search: '搜索'
   archive: 'archive'
   category: 'category'
   uncategorized: 'uncategorized'

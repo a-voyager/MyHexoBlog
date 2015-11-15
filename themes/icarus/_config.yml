@@ -15,7 +15,7 @@ fancybox: true
 
 # Profile
 profile: true # Whether to show profile bar
-gravatar: false # Whether to use gravatar with the email. If you do, put your email address in your site's `_config.yml`.
+gravatar: true # Whether to use gravatar with the email. If you do, put your email address in your site's `_config.yml`.
 
 # Sidebar
 sidebar: right # set to false if you don't want a sidebar
@@ -47,7 +47,7 @@ cdn: # You can choose "useso" instead of "google apis"(default).
 
 # Miscellaneous
 google_site_verification:
-google_analytics:
+baidu-analytics: true
 favicon: favicon.png
 twitter:
 google_plus:
